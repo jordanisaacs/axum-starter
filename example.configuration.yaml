@@ -1,0 +1,12 @@
+# axum_starter example configuration file.
+
+database:
+    host: starterDB
+    port: 5432
+    username: axumstarter
+    password: axumstarter
+    database_name: axumstarter
+server:
+    host: 127.0.0.1
+    application_port: 8080
+
